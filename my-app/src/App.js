@@ -51,4 +51,4 @@ const app = props => {
     // return React.createElement('div', {className: 'App'}, React.createElement('h1', null, 'Does this work now?'));
 };
 
-export default app;
+export default App;
